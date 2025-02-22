@@ -1,6 +1,6 @@
 # eapp
 
-A new Flutter project.
+Lets build in ecommerce app together feel free to push changes here
 
 ## Getting Started
 
